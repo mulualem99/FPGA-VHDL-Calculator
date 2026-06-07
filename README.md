@@ -37,5 +37,4 @@ HDL design, FPGA implementation, and simulation/testing using Quartus Prime Lite
 
 ## Author
 Mulualem Ayena
-M.S. Electrical Engineering
-The Catholic University of America
+Electrical Engineer | Power Systems | Electrical Design | Embedded Systems
